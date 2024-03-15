@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_Wing</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <!--img description-->
+    <string name="return_img_description">Return</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
